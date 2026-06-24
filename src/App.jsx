@@ -2,6 +2,7 @@
  import ShowcaseSection from './sections/ShowcaseSection.jsx'
  import NavBar from './components/NavBar.jsx'
  import FeatureCards from './sections/FeatureCards.jsx'
+ import ExperienceSection from './sections/ExperienceSection.jsx'
  
  const App = () => {
     return (
@@ -10,6 +11,7 @@
             <Hero />
             <ShowcaseSection />
             <FeatureCards />
+            <ExperienceSection />
         </>
     )
  }

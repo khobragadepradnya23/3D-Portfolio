@@ -148,41 +148,35 @@ const techStackIcons = [
 const expCards = [
   {
     review:
-      "Adrian brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
-    imgPath: "/images/exp1 (9).png",
-    logoPath: "/images/logo1 (9).png",
+      "Resumind is a personal project focused on building an AI-powered resume analyzer with a clean and responsive interface for resume upload, scoring, and feedback.",
+    logoPath: "/images/Resume_logo.png",
+    title: "Web Developer",
+    responsibilities: [
+      "Built an AI-powered resume analyzer with resume upload and feedback-based UI.",
+      "Designed a responsive interface for displaying resume scores and analysis results.",
+      "Focused on creating a clean and user-friendly frontend experience.",
+    ],
+  },
+  {
+    review:
+      "Helping Hands is a group project where I contributed to the frontend development of a donation platform designed for clothes, food, and books.",
+    logoPath: "/images/HelpingHand_logo.png",
     title: "Frontend Developer",
-    date: "January 2023 - Present",
     responsibilities: [
-      "Developed and maintained user-facing features for the Hostinger website.",
-      "Collaborated closely with UI/UX designers to ensure seamless user experiences.",
-      "Optimized web applications for maximum speed and scalability.",
+      "Developed the frontend of a donation website for clothes, food, and books.",
+      "Designed a simple and responsive interface to improve accessibility and usability.",
+      "Collaborated with team members on layout and styling.",
     ],
   },
   {
     review:
-      "Adrian’s contributions to Docker's web applications have been outstanding. He approaches challenges with a problem-solving mindset.",
-    imgPath: "/images/exp2 (9).png",
-    logoPath: "/images/logo2 (9).png",
-    title: "Full Stack Developer",
-    date: "June 2020 - December 2023",
+      "LevelUp is a group project where I worked on the frontend of an AI mock interview platform with a gamified and engaging design.",
+    logoPath: "/images/LevelUp_logo.png",
+    title: "Frontend Developer",
     responsibilities: [
-      "Led the development of Docker's web applications, focusing on scalability.",
-      "Worked with backend engineers to integrate APIs seamlessly with the frontend.",
-      "Contributed to open-source projects that were used with the Docker ecosystem.",
-    ],
-  },
-  {
-    review:
-      "Adrian’s work on Appwrite’s mobile app brought a high level of quality and efficiency. He delivered solutions that enhanced our mobile experience & meet our product goals.",
-    imgPath: "/images/exp3 (9).png",
-    logoPath: "/images/logo3 (9).png",
-    title: "React Native Developer",
-    date: "March 2019 - May 2020",
-    responsibilities: [
-      "Built cross-platform mobile apps using React Native, integrating with Appwrite's backend services.",
-      "Improved app performance and user experience through code optimization and testing.",
-      "Coordinated with the product team to implement features based on feedback.",
+      "Created the frontend of an AI mock interview platform with a gamified design.",
+      "Designed interface sections for interview practice, rewards, and leaderboard features.",
+      "Worked on responsive layout, visual design, and engaging user experience.",
     ],
   },
 ];
