@@ -73,19 +73,19 @@ const logoIconsList = [
 
 const abilities = [
   {
-    imgPath: "/images/seo (9).png",
-    title: "Quality Focus",
-    desc: "Delivering high-quality results while maintaining attention to every detail.",
+    imgPath: "/images/frontend.png",
+    title: "Frontend Development",
+    desc: "Building responsive and user-friendly websites with clean layouts and modern design."
   },
   {
-    imgPath: "/images/chat (9).png",
-    title: "Reliable Communication",
-    desc: "Keeping you updated at every step to ensure transparency and clarity.",
+    imgPath: "/images/solving.png",
+    title: "Problem Solving",
+    desc: "Finding practical solutions while developing projects and improving website functionality."
   },
   {
-    imgPath: "/images/time (9).png",
-    title: "On-Time Delivery",
-    desc: "Making sure projects are completed on schedule, with quality & attention to detail.",
+    imgPath: "/images/learning.png",
+    title: "Continuous Learning",
+    desc: "Always exploring new tools and technologies to improve web development skills and create better projects."
   },
 ];
 
