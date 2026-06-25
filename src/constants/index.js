@@ -89,56 +89,34 @@ const abilities = [
   },
 ];
 
-const techStackImgs = [
-  {
-    name: "React Developer",
-    imgPath: "/images/logos/react (9).png",
-  },
-  {
-    name: "Python Developer",
-    imgPath: "/images/logos/python (9).svg",
-  },
-  {
-    name: "Backend Developer",
-    imgPath: "/images/logos/node (9).png",
-  },
-  {
-    name: "Interactive Developer",
-    imgPath: "/images/logos/three (9).png",
-  },
-  {
-    name: "Project Manager",
-    imgPath: "/images/logos/git (9).svg",
-  },
-];
 
 const techStackIcons = [
   {
-    name: "React Developer",
-    modelPath: "/models/react_logo-transformed.glb",
-    scale: 1,
-    rotation: [0, 0, 0],
-  },
-  {
-    name: "Python Developer",
+    name: "Python",
     modelPath: "/models/python-transformed.glb",
     scale: 0.8,
     rotation: [0, 0, 0],
   },
   {
-    name: "Backend Developer",
+    name: "Javascript",
     modelPath: "/models/node-transformed.glb",
     scale: 5,
     rotation: [0, -Math.PI / 2, 0],
   },
   {
-    name: "Interactive Developer",
+    name: "React",
+    modelPath: "/models/react_logo-transformed.glb",
+    scale: 1,
+    rotation: [0, 0, 0],
+  },
+  {
+    name: "Responsive Design",
     modelPath: "/models/three.js-transformed.glb",
     scale: 0.05,
     rotation: [0, 0, 0],
   },
   {
-    name: "Project Manager",
+    name: "Team collaboration",
     modelPath: "/models/git-svg-transformed.glb",
     scale: 0.05,
     rotation: [0, -Math.PI / 4, 0],
@@ -274,6 +252,5 @@ export {
   testimonials,
   socialImgs,
   techStackIcons,
-  techStackImgs,
   navLinks,
 };
