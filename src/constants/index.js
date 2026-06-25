@@ -176,46 +176,39 @@ const expLogos = [
 
 const testimonials = [
   {
-    name: "Esther Howard",
-    mentions: "@estherhoward",
+    name: "Sweta Prasad",
+    mentions: "@swetaprasad",
     review:
-      "I can’t say enough good things about Adrian. He was able to take our complex project requirements and turn them into a seamless, functional website. His problem-solving abilities are outstanding.",
-    imgPath: "/images/client1 (9).png",
+      "Working with Pradnya on the LevelUp project was a great experience. She contributed well to the frontend design, styling, and layout, and always supported the team in improving the final output.",
+    imgPath: "/images/sweta.png",
   },
   {
-    name: "Wade Warren",
-    mentions: "@wadewarren",
+    name: "Kasturi Dhopte",
+    mentions: "@kasturidhopte",
     review:
-      "Working with Adrian was a fantastic experience. He transformed our outdated website into a modern, user-friendly platform. His attention to detail and commitment to quality are unmatched. Highly recommend him for any web dev projects.",
-    imgPath: "/images/client3 (9).png",
+      "Pradnya was a reliable teammate throughout the project. She handled the frontend work sincerely and helped turn our donation platform idea into a clean and user-friendly interface.",
+    imgPath: "/images/kasturi.png",
   },
   {
-    name: "Guy Hawkins",
-    mentions: "@guyhawkins",
+    name: "Ritika Lichade",
+    mentions: "@ritikalichade",
     review:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    imgPath: "/images/client2 (9).png",
+      "Pradnya collaborated well during our group project and was focused on building responsive and visually neat frontend pages. Her contribution played an important role in completing the project successfully.",
+    imgPath: "/images/ritika.png",
   },
   {
-    name: "Marvin McKinney",
-    mentions: "@marvinmckinney",
+    name: "Shubhangi Bompilwar Mam",
+    mentions: "@shubhangibompilwar",
     review:
-      "Adrian was a pleasure to work with. He turned our outdated website into a fresh, intuitive platform that’s both modern and easy to navigate. Fantastic work overall.",
+      "I appreciated Pradnya’s effort and creativity during the NGO website redesign project. She showed good interest in frontend development and contributed to building a clear and meaningful interface for the project.",
     imgPath: "/images/client5 (9).png",
   },
   {
-    name: "Floyd Miles",
-    mentions: "@floydmiles",
+    name: "Wide Softech Company",
+    mentions: "@widesoftech",
     review:
-      "Adrian’s expertise in web development is truly impressive. He delivered a robust and scalable solution for our e-commerce site, and our online sales have significantly increased since the launch. He’s a true professional!",
-    imgPath: "/images/client4 (9).png",
-  },
-  {
-    name: "Albert Flores",
-    mentions: "@albertflores",
-    review:
-      "Adrian was a pleasure to work with. He understood our requirements perfectly and delivered a website that exceeded our expectations. His skills in both frontend and backend dev are top-notch.",
-    imgPath: "/images/client6 (9).png",
+      "During her frontend development internship, Pradnya showed dedication, willingness to learn, and a good understanding of responsive web design. She completed her tasks sincerely and maintained a positive attitude throughout the internship.",
+    imgPath: "/images/widesoftech.jpg",
   },
 ];
 
