@@ -215,22 +215,17 @@ const testimonials = [
 const socialImgs = [
   {
     name: "insta",
-    url: "https://www.instagram.com/",
+    url: "https://www.instagram.com/pradnya_khobragade_?igsh=aW5rNXoxMHE0OTNo",
     imgPath: "/images/insta (9).png",
   },
   {
-    name: "fb",
-    url: "https://www.facebook.com/",
-    imgPath: "/images/fb (9).png",
-  },
-  {
-    name: "x",
-    url: "https://www.x.com/",
-    imgPath: "/images/x (4).png",
+    name: "github",
+    url: "https://github.com/khobragadepradnya23",
+    imgPath: "/images/github.png",
   },
   {
     name: "linkedin",
-    url: "https://www.linkedin.com/",
+    url: "https://www.linkedin.com/in/pradnya-khobragade-804637377",
     imgPath: "/images/linkedin (9).png",
   },
 ];
