@@ -20,6 +20,7 @@
     "react": "^19.2.6",
     "react-countup": "^6.5.3",
     "react-dom": "^19.2.6",
+    "react-parallax-tilt": "^1.7.333",
     "react-responsive": "^10.0.1",
     "tailwindcss": "^4.3.1",
     "three": "^0.184.0"
