@@ -52,7 +52,7 @@ const ShowcaseSection = () => {
             <div className="w-full">
                 <div className="showcaselayout">
                     {/* LEFT */}
-                    <div className="first-project-wrapper" ref={project1Ref}>
+                    <div className="first-project-wrapper hover-card" ref={project1Ref}>
                         <div className="image-wrapper">
                             <img src="/images/project1.png" alt="Resumind" />
                         </div>
@@ -66,14 +66,14 @@ const ShowcaseSection = () => {
 
                     {/* RIGHT */}
                     <div className="project-list-wrapper overflow-hidden">
-                        <div className="project" ref={project2Ref}>
+                        <div className="project hover-card" ref={project2Ref}>
                             <div className="image-wrapper bg-[#ffefdb]">
                                 <img src="/images/project2.png" alt="Frontend Design for a Donation Platform" />
                             </div>
                             <h2>Frontend Design for a Donation Platform</h2>
                         </div>
 
-                        <div className="project" ref={project3Ref}>
+                        <div className="project hover-card" ref={project3Ref}>
                             <div className="image-wrapper bg-[#ffe7db]">
                                 <img src="/images/project3.png" alt="Level Up Your Interview Skills with AI Mock Interviews" />
                             </div>
